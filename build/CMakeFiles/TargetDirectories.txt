@@ -1,0 +1,3 @@
+/home/simon/VS Code Projects/CreditCardValidator/build/CMakeFiles/rebuild_cache.dir
+/home/simon/VS Code Projects/CreditCardValidator/build/CMakeFiles/edit_cache.dir
+/home/simon/VS Code Projects/CreditCardValidator/build/CMakeFiles/main.dir
